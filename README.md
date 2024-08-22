@@ -15,6 +15,11 @@
 
  </div>
 
+ <div align="center"> 
+  <a href="https://www.instagram.com/ethan._zzz/?igsh=NGFvZnk1MWYwb3pz&utm_source=qr">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+</div>
+
  <hr/>
  
 <h2 align="center">Conocimientos</h2>
