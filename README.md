@@ -1,34 +1,29 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Holaaaaaa!+👋;+I'm+Ethan+Henriquez!;" />
 </h1>
 
-<h3 align="center">Desarrollador de Sowtware de El Salvador 🇨🇦</h3>
+<h3 align="center">Estudiante de Desarrollo de Sowtware </h3>
+
 
 <br/>
 
 <div align="center">
  
- 🌱 Soy Estudiante
+ 🌱 Aun aprendiendo
 
  </div>
- 
-<div align="center"> 
- 
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Conocimientos</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=javascript,firebase,c#,java,kotlin,oracle" /><br>
+    <img src="https://skillicons.dev/icons?i=,html,css,vscode,github,cs,figma" />
+    <img src="https://skillicons.dev/icons?i=javascript,firebase,java,kotlin,androidstudio" /><br>
 </div>
+
 
 <br/>
 <hr/>
