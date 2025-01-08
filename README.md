@@ -16,7 +16,7 @@
  </div>
 
  <div align="center"> 
-  <a href="https://www.instagram.com/ethan._zzz/?igsh=NGFvZnk1MWYwb3pz&utm_source=qr">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=instagram" />
 </div>
 
